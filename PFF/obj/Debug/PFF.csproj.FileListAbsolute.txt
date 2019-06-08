@@ -1,0 +1,57 @@
+c:\users\leandro\documents\visual studio 2015\Projects\PFF\PFF\bin\Debug\PFF.exe.config
+C:\Users\Leandro\documents\visual studio 2015\Projects\PFF\PFF\bin\Debug\PFF.exe
+C:\Users\Leandro\documents\visual studio 2015\Projects\PFF\PFF\bin\Debug\PFF.pdb
+C:\Users\Leandro\documents\visual studio 2015\Projects\PFF\PFF\obj\Debug\PFF.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\documents\visual studio 2015\Projects\PFF\PFF\obj\Debug\PFF.Form1.resources
+C:\Users\Leandro\documents\visual studio 2015\Projects\PFF\PFF\obj\Debug\PFF.Properties.Resources.resources
+C:\Users\Leandro\documents\visual studio 2015\Projects\PFF\PFF\obj\Debug\PFF.csproj.GenerateResource.Cache
+C:\Users\Leandro\documents\visual studio 2015\Projects\PFF\PFF\obj\Debug\PFF.exe
+C:\Users\Leandro\documents\visual studio 2015\Projects\PFF\PFF\obj\Debug\PFF.pdb
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 2\PFF\bin\Debug\PFF.exe.config
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 2\PFF\obj\Debug\PFF.exe
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 2\PFF\obj\Debug\PFF.pdb
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 2\PFF\bin\Debug\PFF.exe
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 2\PFF\bin\Debug\PFF.pdb
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 2\PFF\obj\Debug\PFF.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 2\PFF\obj\Debug\PFF.Form1.resources
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 2\PFF\obj\Debug\PFF.Properties.Resources.resources
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 2\PFF\obj\Debug\PFF.csproj.GenerateResource.Cache
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 3\PFF\bin\Debug\PFF.exe.config
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 3\PFF\obj\Debug\PFF.exe
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 3\PFF\obj\Debug\PFF.pdb
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 3\PFF\bin\Debug\PFF.exe
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 3\PFF\bin\Debug\PFF.pdb
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 3\PFF\obj\Debug\PFF.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 3\PFF\obj\Debug\PFF.Form1.resources
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 3\PFF\obj\Debug\PFF.Properties.Resources.resources
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 3\PFF\obj\Debug\PFF.csproj.GenerateResource.Cache
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 4\PFF\bin\Debug\PFF.exe.config
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 4\PFF\obj\Debug\PFF.exe
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 4\PFF\obj\Debug\PFF.pdb
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 4\PFF\bin\Debug\PFF.exe
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 4\PFF\bin\Debug\PFF.pdb
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 4\PFF\obj\Debug\PFF.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 4\PFF\obj\Debug\PFF.Form1.resources
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 4\PFF\obj\Debug\PFF.Properties.Resources.resources
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 4\PFF\obj\Debug\PFF.csproj.GenerateResource.Cache
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 5\PFF\bin\Debug\PFF.exe.config
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 5\PFF\obj\Debug\PFF.exe
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 5\PFF\obj\Debug\PFF.pdb
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 5\PFF\bin\Debug\PFF.exe
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 5\PFF\bin\Debug\PFF.pdb
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 5\PFF\obj\Debug\PFF.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 5\PFF\obj\Debug\PFF.Form1.resources
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 5\PFF\obj\Debug\PFF.Properties.Resources.resources
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 5\PFF\obj\Debug\PFF.csproj.GenerateResource.Cache
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\PFF 5\PFF\obj\Debug\PFF.Referencias.resources
+D:\Lab\Visual Studio\PFF 6\PFF\bin\Debug\PFF.exe.config
+D:\Lab\Visual Studio\PFF 6\PFF\bin\Debug\PFF.exe
+D:\Lab\Visual Studio\PFF 6\PFF\bin\Debug\PFF.pdb
+D:\Lab\Visual Studio\PFF 6\PFF\obj\Debug\PFF.csprojResolveAssemblyReference.cache
+D:\Lab\Visual Studio\PFF 6\PFF\obj\Debug\PFF.Form1.resources
+D:\Lab\Visual Studio\PFF 6\PFF\obj\Debug\PFF.Properties.Resources.resources
+D:\Lab\Visual Studio\PFF 6\PFF\obj\Debug\PFF.Referencias.resources
+D:\Lab\Visual Studio\PFF 6\PFF\obj\Debug\PFF.csproj.GenerateResource.Cache
+D:\Lab\Visual Studio\PFF 6\PFF\obj\Debug\PFF.csproj.CoreCompileInputs.cache
+D:\Lab\Visual Studio\PFF 6\PFF\obj\Debug\PFF.exe
+D:\Lab\Visual Studio\PFF 6\PFF\obj\Debug\PFF.pdb
